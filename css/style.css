@@ -442,7 +442,7 @@ a:focus {
 .slider_section .carousel_btn-box .slider_btn_prev:hover,
 .slider_section .carousel_btn-box .slider_btn_next:hover {
   background-color: #ffffff;
-  color: #85310c;
+  color: #000000;
 }
 
 .about_section .heading_container h2 {
