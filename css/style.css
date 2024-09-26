@@ -382,10 +382,10 @@ a:focus {
 
 .slider_section .detail-box a {
   display: inline-block;
-  background-color: #85310c;
+  background-color: #000000;
   color: #ffffff;
   padding: 10px 45px;
-  border: 1px solid #85310c;
+  border: 1px solid #000000;
   border-radius: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -394,7 +394,7 @@ a:focus {
 
 .slider_section .detail-box a:hover {
   background-color: transparent;
-  color: #85310c;
+  color: #000000;
 }
 
 .slider_section .img-box {
@@ -434,7 +434,7 @@ a:focus {
           align-items: center;
   font-size: 20px;
   color: #ffffff;
-  background-color: #85310c;
+  background-color: #000000;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
