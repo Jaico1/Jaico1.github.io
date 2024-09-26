@@ -34,6 +34,11 @@ body {
   padding-bottom: 90px;
 }
 
+.layout_padding-right-left {
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
 .heading_container {
   display: -webkit-box;
   display: -ms-flexbox;
