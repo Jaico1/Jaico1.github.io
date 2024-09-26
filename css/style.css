@@ -233,7 +233,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: rgba(141, 58, 21, 0.95);
+  background-color: rgb(14 13 12 / 85%);
   overflow-x: hidden;
   -webkit-transition: 0.5s;
   transition: 0.5s;
