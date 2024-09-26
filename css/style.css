@@ -500,7 +500,7 @@ a:focus {
 }
 
 .portfolio_section .heading_container h2::before {
-  background-color: #85310c;
+  background-color: #000000;
 }
 
 .portfolio_section p {
@@ -578,7 +578,7 @@ a:focus {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: rgba(152, 64, 25, 0.9);
+  background-color: rgba(110, 36, 5, 0.9);
   z-index: 0;
   opacity: 0;
   visibility: hidden;
@@ -650,10 +650,10 @@ a:focus {
 
 .portfolio_section .read_btn {
   display: inline-block;
-  background-color: #85310c;
+  background-color: #000000;
   color: #ffffff;
   padding: 7px 30px;
-  border: 1px solid #85310c;
+  border: 1px solid #000000;
   border-radius: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -663,7 +663,7 @@ a:focus {
 
 .portfolio_section .read_btn:hover {
   background-color: transparent;
-  color: #85310c;
+  color: #000000;
 }
 
 .team_section .team_container {
