@@ -508,13 +508,13 @@ a:focus {
   background-color: #000000;
 }
 
-.portfolio_section p {
+.portfolio_section .portfolio_container .img-box p {
   position: absolute;
   margin-top: 25px;
   margin-bottom: 30px;
 }
 
-.portfolio_section p ::before{
+.portfolio_section .portfolio_container .img-box p ::before{
   position: absolute;
   color: #ffffff;
   margin-top: 25px;
